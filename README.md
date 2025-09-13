@@ -1,5 +1,6 @@
 # 🚀 Planetary Classifier 
 A cutting-edge Machine Learning project that classifies planets based on key features like atmosphere, gravity, and surface temperature — unlocking the secrets of the cosmos with data.
+
 ✨ Predict. Explore. Discover.
 
 #     Project Overview
